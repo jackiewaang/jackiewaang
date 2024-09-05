@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫Hello! :
 Welcome to my GitHub profile!
 
 I'm Jackie, a passionate computer science student at the University of Warwick.
