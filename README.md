@@ -84,8 +84,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jackiewaang&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=jackiewaang&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jackiewaang&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackiewaang&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ###
