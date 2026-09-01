@@ -1,83 +1,56 @@
 <div align="center">
-  <img height="480" src="https://images.unsplash.com/photo-1623256353948-200e4c93de2f?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
+
+# Jackie Wang
+
+### Research Assistant · Backend Engineer · AI Systems
+
+Building reliable backend systems and practical AI applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackiewang03/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wangjackie2003@gmail.com)
+
 </div>
 
-###
+## About
 
-<p align="center">This is my hometown Rimini!</p>
+I am a Research Assistant at the University of Warwick and a recent BSc Computer Science graduate (July 2026). My work focuses on building full-stack research tools that connect machine learning models with accessible, reliable interfaces.
 
-###
+I am currently looking for my first full-time software engineering role, with a particular interest in backend development, AI integration, and DevOps.
+
+## Featured Projects
+
+### [DCS ICS Interface](https://github.com/jackiewaang/DCS_ICS_Interface)
+
+A full-stack research platform for uploading and analysing research impact case studies. It connects a React interface to a FastAPI backend, an ML inference pipeline, and locally hosted LLM review generation through vLLM.
+
+`Python` `FastAPI` `React` `TypeScript` `SQLite` `vLLM`
+
+### [On-Device RAG Assistant](https://github.com/jackiewaang/Jetson-Nano-RAG-LLM)
+
+A fully local retrieval-augmented generation system developed during an internship. Designed to provide private, document-grounded AI assistance on resource-constrained hardware such as the NVIDIA Jetson Nano.
+
+`Python` `FastAPI` `RAG` `Llama.cpp` `Streamlit` `Jetson Nano`
+
+### [Inventory Management Platform](https://github.com/jackiewaang/inventory-management)
+
+A practical B2B inventory platform created to track stock for my family's shop. The application provides a straightforward local workflow for managing day-to-day inventory.
+
+`TypeScript` `React` `Node.js` `PostgreSQL` `Docker` `FastAPI`
+
+## Technology Stack
+
+- **Languages:** Python · TypeScript · JavaScript · Java
+- **Backend & AI:** FastAPI · Spring Boot · vLLM · Ollama
+- **Frontend:** React
+- **Data & Infrastructure:** PostgreSQL · SQLite · Docker · Nginx
+- **Developer Tools:** Git · GitHub
+
+## Beyond Technology
+
+Outside of work, I enjoy travelling, following Juventus, and watching TV series, films, and Marvel. I also like turning ideas into useful side projects.
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jackiewang03/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jackiewaang/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jackiewaang.jackiewaang&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Jackie from Italy<br><br>- 🔭 I’m currently studying at the University of Warwick<br>- 📚 I'm currently learning Next.js, Typescript<br>- ⚡ In my free time I watch anime, play volleyball and build new interesting projects</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackiewaang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jackiewaang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  Open to full-time software engineering opportunities in backend development, AI-enabled systems, and DevOps.
 </div>
